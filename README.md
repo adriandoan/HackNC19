@@ -2,8 +2,7 @@
 
 Team: Vishal Dubey, Adrian Doan, Elijah Wilde, Kerry Lu
 
-Prize won: Wolf Award
-
+Prize won: Wolfram Award
 
 To Run:
 $ virtualenv --no-site-packages env  
